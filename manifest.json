@@ -1,11 +1,16 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "name": "amimulsworld",
     "short_name": "amimulsworld",
 =======
     "name": "aimahdi_github_io",
     "short_name": "aimahdi_github_io",
 >>>>>>> 216af21 (New version init)
+=======
+    "name": "aimahdi_github_io",
+    "short_name": "aimahdi_github_io",
+>>>>>>> 8f96448 (New Version Working)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
