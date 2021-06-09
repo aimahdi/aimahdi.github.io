@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "aimahdi_github_io",
     "short_name": "aimahdi_github_io",
+=======
+    "name": "flutter_web_portfolio",
+    "short_name": "flutter_web_portfolio",
+>>>>>>> 9835993 (New Version)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
